@@ -1,0 +1,50 @@
+{
+    "signup" : {
+        "name": "Luis Henrique", 
+        "cpf": "12345678910",
+        "email": "luis@prefeituramoderna.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "distric": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Luis Henrique", 
+        "cpf": "12A456B8910",
+        "email": "luis@prefeituramoderna.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "distric": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Luis Henrique", 
+        "cpf": "10441937942",
+        "email": "luisprefeituramoderna.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "88882000",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "distric": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
